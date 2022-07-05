@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "krios-studio",
+  "private_key_id": "f643711c6cc18f9f1b73f7c01a9b4e6cfec3769f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC7FYQDZXk8vEVY\nOXB3TN01q+0ygZGrLe5WC2boUt4/F0+CIjWutUzYM9eJwtRn9JNbAgGOOOgZCEDS\nd5OHbvY1DMYgIEKaNHtgNe7OqVmj5wSstxpckKUswPVOZLcSwnYlFsxivcIw0Ghs\nYFAy5JAOgAAy2q68AZWQ5J/IWY4wxdbmzWIwYqxMg9BAHBXSU/wmC2sTrHAl6uyT\ntnPpQuZZ0VClOH5wYi4xM36ceq5JMaBlau8MRSWHbiDZ3cbgt8KPs2VdtkeZTL9J\nDLly6q8BFuH4KU6jXCyDxtfsEV4DesILCBpNpW3W0pIb8IMtAeyvWppukxUdrQzP\nCVy2IkhZAgMBAAECggEARKh/Q83UQg1oN5oQ47+COWXIza3Oe2+GVe6mTCHJbYcN\nB1mtsNnZg0j3U5f8YtBX2eDxGDRbPYCRZYw7yMrYsZxoA7dDKhuTobn5U7/D5Ypt\nZUNnecwdykBgZm5A37IdMLxesugoIckCYa+xDxRhp+ii6gbmdJnyPXQiDaGMNOpt\nla1s7ew28y/LcOLIJAM0Tu9lsEJChZKibrdIM0jP4HLwpqojoYqRn4V2godwVO0/\nmCYg1XRi30FmWgp+qqh5azg85n8BPiBffBEuhPUWAm+7a0+RQszKchEuXIt1opro\niieXBTv5RZE6UcCZw/60lHmZq8Bp7VPP9XTjQOq93wKBgQDjXbUpxAiqNquyl5yv\nOp9wB7/1fPkqei4RwMEr0q2Vpb45eJSKcqS4biAyVoN4KgiGpQRFvsX7+Q9DyHLN\nEfUxOuvcT5K2pKznPME0JaUcq3RivBFEZMB1qj3saTaP0zWVNQoHRBsQaPZJ/g1v\nvA0NZ//E/DREVEenwc9jucsmMwKBgQDSpR1HyK4QVUi8oIy3RQlLnt64fn3Pf+Is\nBwPKPtv/yqWR3rbB8SV0KhtRVwBs1RmWRPvFWSuwoU7wch0EqajTJSxaOEt5BCWt\noLCAyu6BZmK0a+aan8ktP3QV3wWBrLpfbkBENq+0FIFsAKup+y7SWu6l+3DP+EpM\nPk0r/NiTQwKBgG7prZB8QsXV+ZgbgaGxdUmPXkMA/gOMqqCaaSFZmrgfrFYYzk1j\nc5tMjYRA081wo8wa/6SOVcJ/UsT8KZSEKBol5h0I7EcQug/rgUxQ+OStdw8bM0kr\n5P8BV0fWY3lxzPfGceftf05YBZ0+w4s4Lx3VF94eMdkLTBE36FV7svAlAoGBAKuz\nAwb8QUX2/m8ivxC0KTuGqCzijlKQ/x68KQ615kW+PO+GBppXohvqJpJKxIHxwgWG\n/WKDqOU010+O9LBUStSxPFHeCUb/Zmb80GJrB7ZaaqJ+QV5QWH+VdV5OiAKHdPNM\nvv3bRaUYAdazRTotEKFOlbCeH/qlfIphTi5Iz5BZAoGBAMFjhTKAp2135zOihJmO\n6EMJ5XV6+iz9U+dzHGIzUN2yEQWVkDqXk7CH5dxMTXBYtrJTWEifED8YVN9dg6x4\nlFfsbXek/WWoijj79SkiItckF0omfRkLFNUQ1V0J66QZ0oIXpPYGGlnMVi+bKDGs\nxRAkipaUnoPumZPwxU4IDBQc\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-v0khk@krios-studio.iam.gserviceaccount.com",
+  "client_id": "107247986505355588221",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-v0khk%40krios-studio.iam.gserviceaccount.com"
+}
